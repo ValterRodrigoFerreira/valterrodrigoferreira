@@ -1,12 +1,9 @@
 ### Olá Mundo 🌍, Eu sou o Valter Rodrigo Ferreira!
 
-- 🔭 I’m currently working on na Empresa RDC VIAGENS, sou Assistente de Operações e Produtos.
+- 🔭 No momento estou trabalhando na Empresa RDC VIAGENS, sou Assistente de Operações e Produtos.
 - 🌱 Estudante de Desenvolvimento Web | JavaScript | CSS | HTML.
 - 💻 Aqui você pode encontrar alguns dos meus projetos, espero que vocês se divirtam-se.
-/*- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ele/dele.
-- ⚡ Fun fact: ...*/
 
 <div align="center">
   <a href="https://github.com/ValterRodrigoFerreira">
