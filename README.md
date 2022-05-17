@@ -1,7 +1,7 @@
 ### Olá Mundo 🌍, Eu sou o Valter Rodrigo Ferreira!
 
 - 🔭 No momento estou trabalhando na Empresa RDC VIAGENS, sou Assistente de Operações e Produtos.
-- 🌱 Estudante de Desenvolvimento Web | JavaScript | CSS | HTML.
+- 🌱 Desenvolvimento Web | JavaScript | CSS | HTML.
 - 💻 Aqui você pode encontrar alguns dos meus projetos, espero que vocês se divirtam-se.
 - 😄 Pronouns: ele/dele.
 
